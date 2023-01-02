@@ -7,4 +7,4 @@
   <a href="https://www.linkedin.com/in/abdelrhman-s-ibrahim-67956622a/"><img src="https://media.giphy.com/media/tC6BeKjgXlWvIDLqie/giphy.gif" width=100 height=100></a>
   </div>
   <hr>
-  <h1 align="center">About me<h1>
+  <h1>About me<h1>
