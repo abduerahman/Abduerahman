@@ -8,3 +8,6 @@
   </div>
   <hr>
   <h1>About me<h1>
+  <div style="background-color:red">
+    <p>Hi there</p>
+  </div>
